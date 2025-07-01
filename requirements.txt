@@ -8,7 +8,6 @@ pygame==2.6.1
 gTTS==2.5.4
 numpy==1.26.4
 sentence-transformers==4.1.0
-faiss-cpu==1.8.0
 pymongo==4.13.0
 motor==3.7.1
 aiofiles==24.1.0
